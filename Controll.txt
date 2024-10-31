@@ -1,5 +1,5 @@
 {
-  "Filename": "anggazyy.js",
+  "Filename": "PakTzy.js",
   "Access": [
     "62857801885512",
     "62857801885512",
